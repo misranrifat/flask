@@ -1,0 +1,4 @@
+Flask==2.3.3
+Flask-RESTful==0.3.10
+pytest==7.4.0
+python-dotenv==1.0.0 
